@@ -1,6 +1,9 @@
 # 💫 About Me:
 Gabriell, o assistente administrativo do Grupo Petrópolis que de dia organiza planilha e de noite abre o terminal pra compilar sonho em Python, JavaScript, C e C# — um entusiasta de Linux tentando fazer o dual boot entre a carreira atual e a área de dev virar realidade! 🐧💻
 
+#Meu Site:
+https://gabriellferrreiradiasr.github.io/MeuPortifolioSIte/
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/tX3vTbsz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biel.xzzzt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriell-ferreira-dias-rodrigues-658901336/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Nightz!) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bielzinnt) 
