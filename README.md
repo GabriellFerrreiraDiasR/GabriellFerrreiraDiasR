@@ -21,7 +21,4 @@ Gabriell, o assistente administrativo do Grupo Petrópolis que de dia organiza p
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GabriellFerrreiraDiasR&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=GabriellFerrreiraDiasR&icon=5&color=4)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
